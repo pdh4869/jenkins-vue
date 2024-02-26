@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "dhpark-jenkins-vue",
-    "public": "dist",
+    "public": "/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
