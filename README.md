@@ -28,3 +28,6 @@ npm run dev
 npm run build
 ```
 # jenkins-vue
+- npm install, run build 
+- firebase deploy 
+- create dev branch 
